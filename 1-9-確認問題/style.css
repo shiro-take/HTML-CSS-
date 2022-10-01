@@ -1,0 +1,15 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+.position {
+  position: absolute;
+  right: 40px;
+  top: 100px;
+} 
+
+.fa-brands {
+  font-size: 32px;
+}
